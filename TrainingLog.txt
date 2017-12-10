@@ -1,0 +1,90 @@
+Using TensorFlow backend.
+Found 400000 word vectors.
+dsize 3500.0
+TensorFlow binary was not compiled to use: SSE4.1 SSE4.2 AVX AVX2
+Number of exemples = 8554
+Training epoch: 0, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [==============================] - 19853s 209ms/step - loss: 1.2867
+BOS ok , but let is take next time . EOS is not it kind of electronic media EOS EOS EOS EOS EOS EOS EOS is just got a couple of the 
+BOS ? EOS . EOS . EOS . EOS . EOS 
+Training epoch: 1, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [==============================] - 3302s 35ms/step - loss: 1.0176
+BOS is fast approaching off , you have to fix it back to the hospital shelter . EOS is so happy ! EOS EOS EOS EOS EOS EOS EOS ? EOS EOS EOS EOS EOS ? EOS so just got a couple 
+BOS EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? 
+Training epoch: 2, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [==============================] - 3310s 35ms/step - loss: 0.8733
+BOS is a huge trip to finish up upstairs . EOS EOS EOS EOS EOS ? EOS EOS EOS EOS EOS EOS ? EOS so have to practice is not EOS EOS EOS 
+BOS EOS EOS ? EOS EOS EOS ? EOS EOS ? EOS EOS ? EOS EOS ? EOS EOS ? EOS EOS 
+Training epoch: 3, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [==============================] - 2911s 31ms/step - loss: 0.7722
+BOS EOS EOS EOS EOS EOS EOS EOS to EOS EOS ? EOS is not there kind of this place . EOS is that we are done with 
+BOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? 
+Training epoch: 4, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [==============================] - 2947s 31ms/step - loss: 0.6940
+BOS EOS EOS EOS EOS EOS EOS EOS to EOS EOS it is true . EOS EOS EOS EOS EOS EOS EOS EOS EOS EOS ? EOS EOS EOS 
+BOS EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS ? EOS EOS EOS ? EOS ? EOS EOS EOS ? EOS ? EOS 
+Training epoch: 5, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [==============================] - 2814s 30ms/step - loss: 0.6280
+BOS is EOS EOS EOS EOS EOS ? EOS EOS EOS EOS EOS EOS ? EOS i have tried to quit it . EOS is so late to do is just stay working . EOS EOS EOS EOS EOS EOS EOS EOS EOS EOS 
+BOS EOS EOS EOS EOS ? EOS EOS EOS . EOS EOS EOS EOS EOS . EOS i do not know anyone the EOS EOS EOS EOS ? EOS ? EOS ? EOS 
+Training epoch: 6, training examples: 0 - 8554
+Epoch 1/1
+30848/94830 [========>.....................] - ETA: 36ms/step - loss: 0.5611
+BOS is EOS EOS EOS EOS EOS ? EOS EOS EOS EOS EOS EOS ? EOS i have tried to quit it . EOS is so late to do is just stay working . EOS EOS EOS EOS EOS EOS EOS EOS EOS EOS 
+BOS EOS EOS EOS EOS ? EOS EOS EOS . EOS EOS EOS EOS EOS . EOS i do not know anyone the EOS EOS EOS EOS ? EOS ? EOS ? EOS 
+Training epoch: 7, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [==============================] - 19853s 209ms/step - loss: 1.2867
+BOS ok , but let is take next time . EOS is not it kind of electronic media EOS EOS EOS EOS EOS EOS EOS is just got a couple of the 
+BOS ? EOS . EOS . EOS . EOS . EOS 
+Training epoch: 8, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [==============================] - 3302s 35ms/step - loss: 1.0176
+BOS is fast approaching off , you have to fix it back to the hospital shelter . EOS is so happy ! EOS EOS EOS EOS EOS EOS EOS ? EOS EOS EOS EOS EOS ? EOS so just got a couple 
+BOS EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? 
+Training epoch: 9, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [==============================] - 3310s 35ms/step - loss: 0.8733
+BOS is a huge trip to finish up upstairs . EOS EOS EOS EOS EOS ? EOS EOS EOS EOS EOS EOS ? EOS so have to practice is not EOS EOS EOS 
+BOS EOS EOS ? EOS EOS EOS ? EOS EOS ? EOS EOS ? EOS EOS ? EOS EOS ? EOS EOS 
+Training epoch: 10, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [==============================] - 2911s 31ms/step - loss: 0.7722
+BOS EOS EOS EOS EOS EOS EOS EOS to EOS EOS ? EOS is not there kind of this place . EOS is that we are done with 
+BOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? 
+Training epoch: 11, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [==============================] - 2947s 31ms/step - loss: 0.6940
+BOS EOS EOS EOS EOS EOS EOS EOS to EOS EOS it is true . EOS EOS EOS EOS EOS EOS EOS EOS EOS EOS ? EOS EOS EOS 
+BOS EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS ? EOS EOS EOS ? EOS ? EOS EOS EOS ? EOS ? EOS 
+Training epoch: 12, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [==============================] - 2966s 30ms/step - loss: 0.6280
+BOS is EOS EOS EOS EOS EOS ? EOS EOS EOS EOS EOS EOS ? EOS i have tried to quit it . EOS is so late to do is just stay working . EOS EOS EOS EOS EOS EOS EOS EOS EOS EOS 
+BOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? 
+Training epoch: 13, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [========>.....................] - 2954s 31ms/step  - loss: 0.5611
+BOS is a huge trip to finish up upstairs . EOS EOS EOS EOS EOS ? EOS EOS EOS EOS EOS EOS ? EOS so have to practice is not EOS EOS EOS 
+BOS EOS EOS ? EOS EOS EOS ? EOS EOS ? EOS EOS ? EOS EOS ? EOS EOS ? EOS EOS 
+Training epoch: 14, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [========>.....................] - 3102s 31ms/step  - loss: 0.4231
+BOS is EOS EOS EOS EOS EOS ? EOS EOS EOS EOS EOS EOS ? EOS mention the references . EOS EOS EOS EOS EOS EOS EOS EOS EOS EOS 
+BOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? 
+Training epoch: 15, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [========>.....................] - 3109s 30ms/step  - loss: 0.3811
+BOS EOS EOS EOS EOS EOS EOS EOS to EOS EOS ? EOS clash with the core. EOS EOS EOS ? EOS EOS EOS ? 
+BOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? 
+Training epoch: 16, training examples: 0 - 8554
+Epoch 1/1
+94830/94830 [========>.....................] - 2911s 31ms/step  - loss: 0.3804
+BOS EOS EOS EOS EOS EOS EOS EOS to EOS EOS ? EOS When it’s windy . EOS is that we are done with 
+BOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? EOS EOS EOS ? 
